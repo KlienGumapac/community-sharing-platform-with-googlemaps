@@ -1,0 +1,14 @@
+{
+  "/not-found": "app/not-found.js",
+  "/page": "app/page.js",
+  "/api/auth/me/route": "app/api/auth/me/route.js",
+  "/auth/signin/page": "app/auth/signin/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/api/items/my-items/route": "app/api/items/my-items/route.js",
+  "/api/upload/route": "app/api/upload/route.js",
+  "/api/items/route": "app/api/items/route.js",
+  "/post-item/page": "app/post-item/page.js",
+  "/discover/page": "app/discover/page.js",
+  "/api/items/nearby/route": "app/api/items/nearby/route.js",
+  "/profile/page": "app/profile/page.js"
+}
