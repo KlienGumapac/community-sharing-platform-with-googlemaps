@@ -68,8 +68,8 @@ A modern web application that enables community members to share and discover it
    Create a `.env.local` file in the root directory:
 
    ```env
-   MONGODB_URI=mongodb+srv://kliengumapac5:Confirmpass123@food.wqlo4sj.mongodb.net/
-   GOOGLE_MAPS_API_KEY=AIzaSyBHP7SxjK6Mcf1AaThEwLtLQ1PMs4NM2Hc
+   MONGODB_URI=
+   GOOGLE_MAPS_API_KEY=
    NEXTAUTH_SECRET=your-secret-key-here
    CLOUDINARY_CLOUD_NAME=your-cloudinary-cloud-name
    CLOUDINARY_API_KEY=your-cloudinary-api-key
