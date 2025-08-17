@@ -228,7 +228,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For support, email support@sharehub.com or create an issue in the repository.
+For support, email kliengumapac5.com or create an issue in the repository.
 
 ---
 
